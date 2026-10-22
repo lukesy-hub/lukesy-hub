@@ -22,9 +22,9 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TalhaZahid13&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/TalhaZahid13?style=for-the-badge&color=8B5CF6&label=FOLLOWERS&logo=github)
-![Stars](https://img.shields.io/github/stars/TalhaZahid13?style=for-the-badge&color=A78BFA&label=STARS&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=lukesy-hub&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/lukesy-hub?style=for-the-badge&color=8B5CF6&label=FOLLOWERS&logo=github)
+![Stars](https://img.shields.io/github/stars/lukesy-hub?style=for-the-badge&color=A78BFA&label=STARS&logo=github)
 
 </div>
 
@@ -368,12 +368,12 @@ The portfolio includes a small interactive **reeded-glass WebGL shader** lab (ri
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TalhaZahid13&show_icons=true&theme=radical&hide_border=true&bg_color=0D0117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=TalhaZahid13&theme=radical&hide_border=true&background=0D0117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lukesy-hub&show_icons=true&theme=radical&hide_border=true&bg_color=0D0117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=lukesy-hub&theme=radical&hide_border=true&background=0D0117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaZahid13&layout=compact&theme=radical&hide_border=true&bg_color=0D0117&title_color=A78BFA&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukesy-hub&layout=compact&theme=radical&hide_border=true&bg_color=0D0117&title_color=A78BFA&text_color=c9d1d9" width="48%"/>
 
 </div>
 
@@ -383,7 +383,7 @@ The portfolio includes a small interactive **reeded-glass WebGL shader** lab (ri
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TalhaZahid13&theme=radical&bg_color=0D0117&color=A78BFA&line=8B5CF6&point=ffffff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lukesy-hub&theme=radical&bg_color=0D0117&color=A78BFA&line=8B5CF6&point=ffffff&hide_border=true"/>
 
 </div>
 
@@ -393,7 +393,7 @@ The portfolio includes a small interactive **reeded-glass WebGL shader** lab (ri
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TalhaZahid13/TalhaZahid13/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/lukesy-hub/lukesy-hub/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
